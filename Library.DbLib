@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\ASPOD\Google Диск\_Library_Altium\DB_lib\DB_lib.MDB;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\git\_Altium_lib\DB_lib.MDB;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -12,8 +12,8 @@ QuoteTableNames=1
 UseTableSchemaName=1
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Access
-LibraryDatabasePath=C:\Users\ASPOD\Google Диск\_Library_Altium\DB_lib\DB_lib.MDB
-DatabasePathRelative=0
+LibraryDatabasePath=DB_lib.MDB
+DatabasePathRelative=1
 TopPanelCollapsed=0
 LibrarySearchPath=
 OrcadMultiValueDelimiter=,
