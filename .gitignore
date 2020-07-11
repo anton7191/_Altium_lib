@@ -4,6 +4,7 @@
 *.~(1).PcbDoc.Zip
 *.SchLib.Zip
 *.*.SchLib (1).Zip
+*.*.PcbLib.Zip
 *.*.DbLib.Zip
 *.APR_LIB
 *.apr
