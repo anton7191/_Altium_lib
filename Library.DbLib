@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\Anton\git\_Altium_lib\DB_lib.MDB;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\Vlad\Documents\GitHub\_Altium_lib\DB_lib.MDB;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -25,7 +25,7 @@ SchemaName=
 TableName=Symbol_SchLib
 Enabled=True
 UserWhere=0
-UserWhereText=
+UserWhereText=[Part Number] = '{Part Number}'
 [FieldMap1]
 Options=FieldName=Symbol_SchLib.Part Number|TableNameOnly=Symbol_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
