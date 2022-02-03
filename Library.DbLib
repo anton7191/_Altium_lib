@@ -26,6 +26,9 @@ TableName=Symbol_SchLib
 Enabled=True
 UserWhere=0
 UserWhereText=[Part Number] = '{Part Number}'
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=100|Library Ref0=100|Footprint Ref0=100|Footprint Ref 20=100|Footprint Ref 30=100|Footprint Ref 40=100|Footprint Ref 50=100|Footprint Ref 60=100|Library Path0=100|Footprint Path0=100|Footprint Path 20=100|Footprint Path 30=100|Footprint Path 40=100|Footprint Path 50=100|Footprint Path 60=100|Value0=100|Manufacturer0=100|ManufacturerAlt0=100|MPN0=100|MPNAlt0=100|Height0=100|MntType0=100|MSL0=100|Notes0=100|Package0=100|Power0=100|RoHS0=100|TempCoeff0=100|Tolerance0=100|Weight0=100|Voltage0=100|PartType0=100|Pins0=100|BOMDescription0=100|CFootprint0=100|Comment0=100|Rule0=100|ClassName0=100|State0=100|System0=100|Link0=100|ComponentLink1Description0=100|ComponentLink1URL0=100
 [FieldMap1]
 Options=FieldName=Symbol_SchLib.Part Number|TableNameOnly=Symbol_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
