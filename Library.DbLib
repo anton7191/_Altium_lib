@@ -23,7 +23,7 @@ LastFocusedTable=Symbol_SchLib
 [Table1]
 SchemaName=
 TableName=Symbol_SchLib
-Enabled=False
+Enabled=True
 UserWhere=0
 UserWhereText=[Part Number] = '{Part Number}'
 BrowserOrder_Sorting=
