@@ -56,3 +56,5 @@ Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 4|TableNameOnly=Symbol_SchLib
 Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 5|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 5|FieldType=1|ParameterName=[Footprint Path 5]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap15]
 Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 6|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 6|FieldType=1|ParameterName=[Footprint Path 6]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=Symbol_SchLib.csv.SYSTEM|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=SYSTEM|FieldType=1|ParameterName=System|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
