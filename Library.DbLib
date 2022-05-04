@@ -47,14 +47,14 @@ Options=FieldName=Symbol_SchLib.csv.LIBRARY PATH|TableNameOnly=Symbol_SchLib.csv
 [FieldMap10]
 Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap11]
-Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 2|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap12]
-Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 3|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap13]
-Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 4|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 4|FieldType=1|ParameterName=[Footprint Path 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap14]
-Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 5|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 5|FieldType=1|ParameterName=[Footprint Path 5]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap15]
-Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 6|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 6|FieldType=1|ParameterName=[Footprint Path 6]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap16]
 Options=FieldName=Symbol_SchLib.csv.SYSTEM|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=SYSTEM|FieldType=1|ParameterName=System|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 2|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 3|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 4|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 4|FieldType=1|ParameterName=[Footprint Path 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 5|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 5|FieldType=1|ParameterName=[Footprint Path 5]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 6|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 6|FieldType=1|ParameterName=[Footprint Path 6]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
