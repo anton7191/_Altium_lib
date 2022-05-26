@@ -19,8 +19,14 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Resistor.csv
+LastFocusedTable=Capacitor.csv
 [Table1]
+SchemaName=
+TableName=Capacitor.csv
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table2]
 SchemaName=
 TableName=Resistor.csv
 Enabled=True
@@ -29,51 +35,64 @@ UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
 BrowserOrder_Visible=PART NUMBER0=141|LIBRARY REF0=103|FOOTPRINT REF0=132|LIBRARY PATH0=147|FOOTPRINT PATH0=172|VALUE0=67|MANUFACTURER0=132|MANUFACTURERALT0=155|MPN0=141|MPNALT0=170|HEIGHT0=73|MNTTYPE0=85|MSL0=52|NOTES0=67|PACKAGE0=85|POWER0=72|ROHS0=61|TEMPCOEFF0=101|TOLERANCE0=100|WEIGHT0=76|VOLTAGE0=85|PARTTYPE0=87|PINS0=54|BOMDESCRIPTION0=181|CFOOTPRINT0=107|COMMENT0=95|RULE0=57|FOOTPRINT REF 20=136|FOOTPRINT REF 30=136|FOOTPRINT REF 40=136|FOOTPRINT REF 50=136|FOOTPRINT REF 60=136|CLASSNAME0=103|STATE0=62|SYSTEM0=74|LINK0=54|COMPONENTLINK1DESCRIPTION0=233|COMPONENTLINK1URL0=173|FOOTPRINT PATH 20=148|FOOTPRINT PATH 30=148|FOOTPRINT PATH 40=148|FOOTPRINT PATH 50=148|FOOTPRINT PATH 60=148|BOMDESCRIPTIONRUS0=248
-[Table2]
+[Table3]
 SchemaName=
 TableName=Symbol_SchLib.csv
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PART NUMBER0=203|LIBRARY REF0=203|FOOTPRINT REF0=254|FOOTPRINT REF 20=166|FOOTPRINT REF 30=160|FOOTPRINT REF 40=142|FOOTPRINT REF 50=136|FOOTPRINT REF 60=154|LIBRARY PATH0=147|FOOTPRINT PATH0=177|SYSTEM0=74|FOOTPRINT PATH 20=177|FOOTPRINT PATH 30=177|FOOTPRINT PATH 40=177|FOOTPRINT PATH 50=177|FOOTPRINT PATH 60=177|VALUE0=193|MANUFACTURER0=203|MANUFACTURERALT0=155|MPN0=239|MPNALT0=116|HEIGHT0=73|MNTTYPE0=85|MSL0=52|NOTES0=67|PACKAGE0=163|POWER0=72|ROHS0=61|TEMPCOEFF0=101|TOLERANCE0=100|WEIGHT0=76|VOLTAGE0=85|PARTTYPE0=198|PINS0=54|BOMDESCRIPTION0=625|CFOOTPRINT0=107|COMMENT0=196|RULE0=57|CLASSNAME0=161|STATE0=62|LINK0=54|COMPONENTLINK1DESCRIPTION0=233|COMPONENTLINK1URL0=1567|PARTTYPERUS0=118|BOMDESCRIPTIONRUS0=167
 [FieldMap1]
-Options=FieldName=Resistor.csv.PART NUMBER|TableNameOnly=Resistor.csv|FieldNameOnly=PART NUMBER|FieldType=0|ParameterName=PART NUMBER|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor.csv.PART NUMBER|TableNameOnly=Capacitor.csv|FieldNameOnly=PART NUMBER|FieldType=0|ParameterName=PART NUMBER|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
-Options=FieldName=Resistor.csv.LIBRARY REF|TableNameOnly=Resistor.csv|FieldNameOnly=LIBRARY REF|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor.csv.LIBRARY REF|TableNameOnly=Capacitor.csv|FieldNameOnly=LIBRARY REF|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap3]
-Options=FieldName=Resistor.csv.FOOTPRINT REF|TableNameOnly=Resistor.csv|FieldNameOnly=FOOTPRINT REF|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor.csv.FOOTPRINT REF|TableNameOnly=Capacitor.csv|FieldNameOnly=FOOTPRINT REF|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap4]
-Options=FieldName=Resistor.csv.LIBRARY PATH|TableNameOnly=Resistor.csv|FieldNameOnly=LIBRARY PATH|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor.csv.LIBRARY PATH|TableNameOnly=Capacitor.csv|FieldNameOnly=LIBRARY PATH|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap5]
-Options=FieldName=Resistor.csv.FOOTPRINT PATH|TableNameOnly=Resistor.csv|FieldNameOnly=FOOTPRINT PATH|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitor.csv.FOOTPRINT PATH|TableNameOnly=Capacitor.csv|FieldNameOnly=FOOTPRINT PATH|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap6]
-Options=FieldName=Symbol_SchLib.csv.PART NUMBER|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=PART NUMBER|FieldType=0|ParameterName=PART NUMBER|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor.csv.PART NUMBER|TableNameOnly=Resistor.csv|FieldNameOnly=PART NUMBER|FieldType=0|ParameterName=PART NUMBER|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap7]
-Options=FieldName=Symbol_SchLib.csv.LIBRARY REF|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=LIBRARY REF|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor.csv.LIBRARY REF|TableNameOnly=Resistor.csv|FieldNameOnly=LIBRARY REF|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap8]
-Options=FieldName=Symbol_SchLib.csv.FOOTPRINT REF|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT REF|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor.csv.FOOTPRINT REF|TableNameOnly=Resistor.csv|FieldNameOnly=FOOTPRINT REF|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap9]
-Options=FieldName=Symbol_SchLib.csv.FOOTPRINT REF 2|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT REF 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor.csv.LIBRARY PATH|TableNameOnly=Resistor.csv|FieldNameOnly=LIBRARY PATH|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap10]
-Options=FieldName=Symbol_SchLib.csv.FOOTPRINT REF 3|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT REF 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor.csv.FOOTPRINT PATH|TableNameOnly=Resistor.csv|FieldNameOnly=FOOTPRINT PATH|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap11]
-Options=FieldName=Symbol_SchLib.csv.FOOTPRINT REF 4|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT REF 4|FieldType=1|ParameterName=[Footprint Ref 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Symbol_SchLib.csv.PART NUMBER|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=PART NUMBER|FieldType=0|ParameterName=PART NUMBER|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap12]
-Options=FieldName=Symbol_SchLib.csv.FOOTPRINT REF 5|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT REF 5|FieldType=1|ParameterName=[Footprint Ref 5]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Symbol_SchLib.csv.LIBRARY REF|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=LIBRARY REF|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap13]
-Options=FieldName=Symbol_SchLib.csv.FOOTPRINT REF 6|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT REF 6|FieldType=1|ParameterName=[Footprint Ref 6]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Symbol_SchLib.csv.FOOTPRINT REF|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT REF|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap14]
-Options=FieldName=Symbol_SchLib.csv.LIBRARY PATH|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=LIBRARY PATH|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Symbol_SchLib.csv.FOOTPRINT REF 2|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT REF 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap15]
-Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Symbol_SchLib.csv.FOOTPRINT REF 3|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT REF 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap16]
-Options=FieldName=Symbol_SchLib.csv.SYSTEM|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=SYSTEM|FieldType=1|ParameterName=System|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Symbol_SchLib.csv.FOOTPRINT REF 4|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT REF 4|FieldType=1|ParameterName=[Footprint Ref 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap17]
-Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 2|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Symbol_SchLib.csv.FOOTPRINT REF 5|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT REF 5|FieldType=1|ParameterName=[Footprint Ref 5]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap18]
-Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 3|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Symbol_SchLib.csv.FOOTPRINT REF 6|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT REF 6|FieldType=1|ParameterName=[Footprint Ref 6]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap19]
-Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 4|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 4|FieldType=1|ParameterName=[Footprint Path 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Symbol_SchLib.csv.LIBRARY PATH|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=LIBRARY PATH|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap20]
-Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 5|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 5|FieldType=1|ParameterName=[Footprint Path 5]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap21]
+Options=FieldName=Symbol_SchLib.csv.SYSTEM|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=SYSTEM|FieldType=1|ParameterName=System|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 2|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 3|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 4|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 4|FieldType=1|ParameterName=[Footprint Path 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 5|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 5|FieldType=1|ParameterName=[Footprint Path 5]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
 Options=FieldName=Symbol_SchLib.csv.FOOTPRINT PATH 6|TableNameOnly=Symbol_SchLib.csv|FieldNameOnly=FOOTPRINT PATH 6|FieldType=1|ParameterName=[Footprint Path 6]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
