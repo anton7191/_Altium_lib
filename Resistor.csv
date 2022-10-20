@@ -30,3 +30,4 @@ R0603-3,3 кќм ±1%	RES	RESC0603N	3,3к	Yageo		=Package+'-'+Value+'ќм'+' '+Toleranc
 R0805-1 ћќм ±1%	RES	RESC0805L	1ћ	Yageo		R0805-1 ћќм ±1%	R0805 Ч 1 MOhm ±1%		SMD	MSL 1		R0805	0,125	Comply		±1%			–езистор	2	=MPNAlt+' '+Manufacturer	=PartType+' '+MPN+' '+Manufacturer	=Footprint	=Value		Resistor	Symbol/Symbol.SchLib	Footprint/Footprint.PcbLib			
 																															
 R1206-0,01 ќм ±1%	RES	RES1206	0,01	Yageo		R1206-0,01 ќм ±1%	R1206 Ч 0.01 Ohm ±1%		SMD	MSL 1		R1206	0,25	Comply		±1%			–езистор	2	=MPNAlt+' '+Manufacturer	=PartType+' '+MPN+' '+Manufacturer	=Footprint	=Value		Resistor	Symbol/Symbol.SchLib	Footprint/Footprint.PcbLib			
+R1206-8,2 ќм ±1%	RES	RES1206	8,2	Yageo		R1206-8,2 ќм ±1%	R1206 Ч 8,2 Ohm ±1%		SMD	MSL 1		R1206	0,25	Comply		±1%			–езистор	2	=MPNAlt+' '+Manufacturer	=PartType+' '+MPN+' '+Manufacturer	=Footprint	=Value		Resistor	Symbol/Symbol.SchLib	Footprint/Footprint.PcbLib			
