@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MSDASQL.1;Persist Security Info=False;Data Source=asdf
+ConnectionString=Provider=MSDASQL.1;Persist Security Info=False;Data Source=AltiumLibDB
 AddMode=3
 RemoveMode=1
 UpdateMode=2
