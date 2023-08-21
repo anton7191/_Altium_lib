@@ -37,7 +37,7 @@ SchemaName=
 TableName=Symbol_SchLib.csv
 Enabled=True
 UserWhere=0
-UserWhereText=
+UserWhereText=[PART NUMBER] = '{PART NUMBER}'
 [FieldMap1]
 Options=FieldName=Capacitor.csv.PART NUMBER|TableNameOnly=Capacitor.csv|FieldNameOnly=PART NUMBER|FieldType=0|ParameterName=PART NUMBER|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
